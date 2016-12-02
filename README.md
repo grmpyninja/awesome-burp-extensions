@@ -4,10 +4,9 @@ A collection of awesome [Burp Suite Pro](https://portswigger.net/burp/) extensio
 
 ## General extensions
 
-* Retire.js
-* Logger++
 * ActiveScan++
-* Python Scripter
-* J2EEScan
 * Image metadata
-
+* J2EEScan
+* Logger++
+* Python Scripter
+* Retire.js
